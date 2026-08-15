@@ -1,6 +1,6 @@
 # airbnb_listing_python
 
-# Airbnb New York 2024 — Exploratory Data Analysis (EDA) & Business Insights
+# Airbnb New York  — Exploratory Data Analysis (EDA) & Business Insights
 
 ## Project Overview
 
